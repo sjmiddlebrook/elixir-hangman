@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :b1, B1.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "jackmiddlebrook",
+  password: "",
   database: "b1_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
